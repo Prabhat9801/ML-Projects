@@ -27,6 +27,8 @@
 - Preprocessing includes tokenization, stopword removal, and lemmatization.
 - Utilized pre-trained transformer models (like BERT or T5) for summarization.
 - Evaluated using ROUGE score for summary precision and recall.
+  
+## Model link: https://huggingface.co/Prabhat9801/model
 
 ## 📊 Results
 - Summarization results show strong alignment with user sentiments.
