@@ -34,6 +34,8 @@
 
 ## Drive Link: https://drive.google.com/drive/folders/1dRhuyD9WfpRMfvvyKtWf0xv5Vd7R6EXV?usp=drive_link
 
+## Deployed Link: https://huggingface.co/spaces/Prabhat9801/Customer_Review_Summarizer
+
 
 ## 🚀 Getting Started
 
@@ -62,7 +64,7 @@
 This project is open-source and available under the MIT License.
 
 ## 👩‍💻 Author
-Developed by [Your Name]
+Developed by Prabhat Kumar Singh
 
 ---
 
