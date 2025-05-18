@@ -131,7 +131,7 @@ To predict an image **outside the dataset**, follow the **exact order** of the s
 ## 👨‍💻 Developer
 
 **Prabhat Singh**
-**Email**: prabhatkumarsictc12@gmail.com
+: prabhatkumarsictc12@gmail.com
 
 
 
